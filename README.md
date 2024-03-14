@@ -1,1 +1,1 @@
-# mass-mail-reader-
+# mass-mail-reader
